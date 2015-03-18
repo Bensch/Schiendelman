@@ -4,7 +4,7 @@ title: About Ben
 permalink: /about/
 ---
 
-Ben is a human.
+Ben Schiendelman is a human living in Seattle.
 
 <a href = “https://twitter.com/intent/tweet?text=%40benschie”>@me</a>
 
