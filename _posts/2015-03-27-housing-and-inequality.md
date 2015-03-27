@@ -52,4 +52,4 @@ First, we know that our current political system mostly serves the wealthy, even
 
 Second, because we can measure the participation of the wealthy population relative to the less wealthy population, and we can measure the affordability outcomes of supply and demand choices, we could work backwards from outcomes that voters agree with, and try to write a wealth-based civil rights act.
 
-Thanks for reading this far. I think this is how housing and wealth inequality appear to work.
+Thanks for reading this far. If you have feedback, feel free to [contact me](http://www.schiendelman.com/about/)!
