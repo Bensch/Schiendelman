@@ -6,9 +6,9 @@ summary:
 categories: housing zoning inequality
 ---
 
-A [recent theory](https://medium.com/the-ferenstein-wire/a-26-year-old-mit-graduate-is-turning-heads-over-his-theory-that-income-inequality-is-actually-2a3b423e0c) suggests that housing is at the root of increasing inequality. I agree; housing may be where most wealth inequality comes from today. I think I can explain why.
+A [recent theory](https://medium.com/the-ferenstein-wire/a-26-year-old-mit-graduate-is-turning-heads-over-his-theory-that-income-inequality-is-actually-2a3b423e0c) suggests that housing is at the root of increasing inequality. I agree; housing may be where most wealth inequality comes from today, and I think I can explain why.
 
-We know we're building much less housing than there are people who are moving in, and the people moving in tend to be higher income than existing residents. That increases the value of property, and causes a property owner to make a choice between three major categories, each with different impacts on the regional housing market and on wealth inequality. Consider a given plot of land:
+In growing cities like Seattle, we know we're building much less housing than there are people who are moving in, and the people moving in tend to be higher income than existing residents. That increases the value of property, and causes a property owner to make a choice between three major categories, each with different impacts on the regional housing market and on wealth inequality. Consider a given plot of land:
 
 * **The owner can do nothing**, accumulating higher value to be sold later. Keep in mind this means anyone living in a house they own; "later" can be at retirement or death.
 
