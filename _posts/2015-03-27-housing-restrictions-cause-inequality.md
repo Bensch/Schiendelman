@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Housing and Inequality
+title:      Yes, Housing restrictions are causing inequality. Here's how.
 date:       2015-03-27
 summary:    
 categories: housing zoning inequality
