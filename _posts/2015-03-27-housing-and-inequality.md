@@ -50,6 +50,6 @@ I think we can. There are two ideas I've heard that could be paths forward:
 
 First, we know that our current political system mostly serves the wealthy, even at a local level. This is inherent to a system in which those running for office are funded voluntarily by constituents - those serving the interests of the wealthy will have more resources to win. We should definitely fight for public campaign financing.
 
-Second, because we can measure the participation of the wealthy population relative to the less wealthy population, and we can measure the affordability outcomes of supply and demand choices, we could work backwards from outcomes that voters agree with, and try to write a wealth-based civil rights act.
+Second, because we can measure the participation of the wealthy population relative to the less wealthy, and we can measure the affordability outcomes of supply and demand choices, we could work backwards from outcomes that voters agree with, and try to write a wealth-based civil rights act.
 
 Thanks for reading this far. If you have feedback, feel free to [contact me](http://www.schiendelman.com/about/)!
