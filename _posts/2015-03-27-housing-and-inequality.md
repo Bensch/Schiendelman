@@ -6,7 +6,7 @@ summary:
 categories: housing zoning inequality
 ---
 
-Housing may be where most wealth inequality comes from today. I hesitate to call it *income* inequality, because we're talking about property, which is wealth that has a possibility of income. I think I've developed a pretty solid explanation as to why.
+A [recent piece](https://medium.com/the-ferenstein-wire/a-26-year-old-mit-graduate-is-turning-heads-over-his-theory-that-income-inequality-is-actually-2a3b423e0c) suggests that housing is at the root of increasing inequality. I agree; housing may be where most wealth inequality comes from today. I think I can explain why.
 
 We know we're building much less housing than there are people who are moving in, and the people moving in tend to be higher income than existing residents. That increases the value of property, and causes a property owner to make a choice between three major categories, each with different impacts on the regional housing market and on wealth inequality. Consider a given plot of land:
 
