@@ -10,19 +10,19 @@ A [recent theory](https://medium.com/the-ferenstein-wire/a-26-year-old-mit-gradu
 
 In growing cities like Seattle, we know we're building much less housing than there are people who want to move here. The people moving in tend to be higher income than existing residents. That  demand increases the value of property, and causes a property owner to make a choice between three major categories:
 
-* **The owner can do nothing**, accumulating higher value to be sold later. Keep in mind this means anyone living in a house they own; "later" can be at retirement or death.
+**The owner can do nothing**, accumulating higher value to be sold later. Keep in mind this means anyone living in a house they own; "later" can be at retirement or death.
 
 Purely accumulating wealth is an inequality increase across the market - owners are almost always higher wealth than renters. Its risk is low, primarily in maintenance and slightly higher property taxes. Also note again why I said wealth rather than income - it’s easy to miss the impact of the first choice, because it’s not obviously income, and in fact it can be largely unrelated to income, but it’s the primary way that individuals accumulate wealth. If an owner loses money when they sell a house, some of their wealth was transferred to those who maintained it: painters, roofers, hot water heater installers, and others.
 
 While they may not realize it, owners of houses understand this accumulation in wealth; they show up in droves to planning meetings to argue about scale, noise, shadows, parking, and lots of other reasons they want to restrict growth. They know that allowing more construction nearby lowers their relative value.
 
-* **The owner can raise rents** to take advantage of higher demand. This also includes starting to rent property that was not previously rented (an increase from zero). One of the most common ways for a single family house owner to take advantage of a boom like this is to move to cheaper housing and rent out the house in the higher demand area.
+**The owner can raise rents** to take advantage of higher demand. This also includes starting to rent property that was not previously rented (an increase from zero). One of the most common ways for a single family house owner to take advantage of a boom like this is to move to cheaper housing and rent out the house in the higher demand area.
 
 This also accumulates more wealth to the owner (and more immediately), also increasing inequality, but is higher risk, as it requires not only maintenance and property taxes but also management and many more (economic) actors. If an owner of a rental property is losing money, they’ve transferred some of their wealth not just to maintenance, but to their renters, who rented below the actual value of the property.
 
 Owners of rental property almost never show up to oppose changes, and sometimes show up to ask for less restrictive zoning. They don’t benefit from higher zoning unless they’re planning to build, but they can see themselves doing that someday, and they understand the market.
 
-* **The owner can build** something on the site, which can accumulate them the most wealth, at by far the highest financial risk. If the owner overbuilds for market conditions and has to rent below their cost, not only do *they* transfer away wealth, but their investors do as well! Wealth is transferred to maintenance and renters a little, as before, but now you're transferring a lot more wealth to the construction workers and building material suppliers.
+**The owner can build** something on the site, which can accumulate them the most wealth, at by far the highest financial risk. If the owner overbuilds for market conditions and has to rent below their cost, not only do *they* transfer away wealth, but their investors do as well! Wealth is transferred to maintenance and renters a little, as before, but now you're transferring a lot more wealth to the construction workers and building material suppliers.
 
 **In each case, the successful outcome for the owner increases inequality, and a failure *decreases* inequality.**
 
